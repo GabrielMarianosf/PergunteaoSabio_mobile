@@ -8,5 +8,5 @@ Desenvolvido em
 
 > JavaScript, React Native, Hooks (UseEffect e UseState), Navigation, CSS3, Axios
 
-![screenshot 1]('./screenshot/screenshot-app1.jpeg')
-![screenshot 2]('./screenshot/screenshot-app2.jpeg')
+![screenshot 1](/screenshot/screenshot-app1.jpeg)
+![screenshot 2](/screenshot/screenshot-app2.jpeg)
